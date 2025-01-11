@@ -4,7 +4,7 @@
     "url": "https://www.ottochrom.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.ottochrom.de.ico",
     "slug": "otto-chrom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1242,
     "timeMonth": 1290,
     "timeYear": 1290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-11": 0
+    }
   },
   {
     "name": "OttoChrom Gutschein",
