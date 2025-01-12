@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ottochrom.de.ico",
     "slug": "otto-chrom",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "96.72%",
     "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 1282,
-    "timeDay": 1229,
-    "timeWeek": 1230,
-    "timeMonth": 1282,
-    "timeYear": 1282,
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 1267,
+    "timeDay": 1065,
+    "timeWeek": 1202,
+    "timeMonth": 1267,
+    "timeYear": 1267,
     "dailyMinutesDown": {
       "2025-01-11": 47
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 429,
-    "timeWeek": 385,
-    "timeMonth": 387,
-    "timeYear": 387,
+    "time": 385,
+    "timeDay": 354,
+    "timeWeek": 384,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   }
 ]
