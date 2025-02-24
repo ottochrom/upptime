@@ -46,21 +46,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Zahlungsdienstleiter (MangoPay API)",
+    "name": "Zahlungsdienstleister (MangoPay API)",
     "url": "https://api.mangopay.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.mangopay.com.ico",
-    "slug": "zahlungsdienstleiter-mango-pay-api",
+    "slug": "zahlungsdienstleister-mango-pay-api",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 382,
-    "timeWeek": 382,
-    "timeMonth": 382,
-    "timeYear": 382,
+    "time": 338,
+    "timeDay": 338,
+    "timeWeek": 338,
+    "timeMonth": 338,
+    "timeYear": 338,
     "dailyMinutesDown": {}
   }
 ]
