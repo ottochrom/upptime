@@ -4,13 +4,13 @@ repo: upptime
 sites:
   - name: OttoChrom
     url: https://www.ottochrom.de
-    delay: 5000
+    delay: 60000
   - name: Gutscheine
     url: https://ottochrom-shop.myshopify.com
-    delay: 5000
+    delay: 60000
   - name: Zahlungsdienstleister (MangoPay API)
     url: https://api.mangopay.com
-    delay: 5000
+    delay: 60000
 
 status-website:
   name: Status OttoChrom
