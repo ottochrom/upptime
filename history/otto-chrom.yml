@@ -1,7 +1,7 @@
 url: https://www.ottochrom.de
-status: up
-code: 200
-responseTime: 1590
-lastUpdated: 2025-03-11T23:11:47.160Z
+status: down
+code: 503
+responseTime: 17592
+lastUpdated: 2025-03-12T23:13:11.658Z
 startTime: 2024-12-26T02:32:25.414Z
 generator: Upptime <https://github.com/upptime/upptime>
