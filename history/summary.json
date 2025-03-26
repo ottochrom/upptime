@@ -60,19 +60,19 @@
     "url": "https://api.mangopay.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.mangopay.com.ico",
     "slug": "zahlungsdienstleister-mango-pay-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 5466,
-    "timeWeek": 1717,
-    "timeMonth": 778,
-    "timeYear": 739,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 729,
+    "timeDay": 3781,
+    "timeWeek": 1572,
+    "timeMonth": 766,
+    "timeYear": 729,
     "dailyMinutesDown": {
-      "2025-03-26": 0
+      "2025-03-26": 39
     }
   }
 ]
