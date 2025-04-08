@@ -42,19 +42,20 @@
     "url": "https://ottochrom-shop.myshopify.com",
     "icon": "https://icons.duckduckgo.com/ip3/ottochrom-shop.myshopify.com.ico",
     "slug": "gutscheine",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 302,
-    "timeWeek": 191,
-    "timeMonth": 197,
-    "timeYear": 242,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "93.31%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.84%",
+    "time": 426,
+    "timeDay": 4428,
+    "timeWeek": 1236,
+    "timeMonth": 458,
+    "timeYear": 426,
     "dailyMinutesDown": {
-      "2025-04-07": 0
+      "2025-04-08": 87,
+      "2025-04-07": 9
     }
   },
   {
