@@ -1,7 +1,7 @@
 url: https://api.mangopay.com
-status: down
-code: 504
-responseTime: 10412
-lastUpdated: 2025-06-26T05:56:16.261Z
+status: up
+code: 200
+responseTime: 396
+lastUpdated: 2025-06-26T06:23:44.803Z
 startTime: 2025-02-24T16:50:52.108Z
 generator: Upptime <https://github.com/upptime/upptime>
