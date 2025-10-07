@@ -4,7 +4,7 @@
     "url": "https://www.ottochrom.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.ottochrom.de.ico",
     "slug": "otto-chrom",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1353,
     "timeYear": 2228,
     "dailyMinutesDown": {
+      "2025-10-07": 0,
       "2025-09-22": 12,
       "2025-08-15": 20,
       "2025-07-16": 26,
