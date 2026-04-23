@@ -6,15 +6,15 @@
     "slug": "otto-chrom",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "88.03%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.29%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.86%",
-    "time": 1901,
-    "timeDay": 471,
-    "timeWeek": 458,
-    "timeMonth": 758,
-    "timeYear": 1573,
+    "time": 1899,
+    "timeDay": 613,
+    "timeWeek": 491,
+    "timeMonth": 759,
+    "timeYear": 1571,
     "dailyMinutesDown": {
       "2026-04-21": 172,
       "2026-02-08": 23,
@@ -38,8 +38,7 @@
       "2025-05-22": 22,
       "2025-05-07": 43,
       "2025-05-06": 6,
-      "2025-04-28": 10,
-      "2025-04-23": 25
+      "2025-04-28": 10
     }
   },
   {
@@ -53,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 390,
-    "timeDay": 240,
-    "timeWeek": 737,
-    "timeMonth": 705,
-    "timeYear": 390,
+    "time": 392,
+    "timeDay": 1229,
+    "timeWeek": 791,
+    "timeMonth": 728,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2025-12-10": 8,
       "2025-12-05": 24
@@ -74,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 512,
-    "timeDay": 483,
-    "timeWeek": 440,
-    "timeMonth": 467,
+    "time": 513,
+    "timeDay": 551,
+    "timeWeek": 459,
+    "timeMonth": 471,
     "timeYear": 497,
     "dailyMinutesDown": {
       "2025-09-25": 116,
